@@ -10,12 +10,12 @@ and employees, as well as the supervisor and employee number and a unique
 project number.
 
 From the description of the problem we see that:
- Each department has exactly one supervisor.
- A supervisor is in charge of one and only one department.
- Each department is assigned at least one employee.
- Each employee works for at least one department.
- Each project has at least one employee working on it.
- An employee is assigned to 0 or more projects.
+* Each department has exactly one supervisor.
+* A supervisor is in charge of one and only one department.
+* Each department is assigned at least one employee.
+* Each employee works for at least one department.
+* Each project has at least one employee working on it.
+* An employee is assigned to 0 or more projects.
 
 
 
